@@ -47,4 +47,3 @@ This project is not licensed.
 
 ---
 
-Feel free to modify the content further based on your preferences. If you have any additional information you'd like to include or specific formatting requests, please let me know!
