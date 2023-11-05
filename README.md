@@ -1,10 +1,6 @@
-Certainly! Based on the information you provided, here's a draft of your GitHub README:
+# Lighting and Sound Demo Project
 
----
-
-# Lighting Demo Project for Students
-
-Welcome to the Lighting Demo project! This Unity project serves as a demonstration of various lighting techniques, designed specifically for educational purposes. It's intended to help students understand different lighting scenarios and effects within the Unity game engine.
+Welcome to the Lighting amd Sound Demo project! This Unity project serves as a demonstration of various lighting techniques, designed specifically for educational purposes. It's intended to help students understand different lighting scenarios and effects within the Unity game engine.
 
 ## Project Details
 
