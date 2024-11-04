@@ -13,12 +13,12 @@ Welcome to the Lighting amd Sound Demo project! This Unity project serves as a d
         <td style="padding: 10px;">
             <img src="https://github.com/Swansea-University-MSc-VR/LightingAndSound/blob/master/Assets/SceneNoLighting.png" alt="Cabin scene - no lighting" width="400" style="margin: 20px;" />
             <br />
-            <div style="text-align: center;">Cabin Scene - no lighting</div>
+            Cabin Scene - no lighting
         </td>
         <td style="padding: 10px;">
             <img src="https://github.com/Swansea-University-MSc-VR/LightingAndSound/blob/master/Assets/SceneWithLighting.png" alt="Cabin scene - with lighting" width="400" style="margin: 20px;" />
             <br />
-            <div style="text-align: center;">Cabin Scene - with lighting</div>
+            Cabin Scene - with lighting
         </td>
     </tr>
 </table>
