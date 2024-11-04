@@ -4,7 +4,7 @@ Welcome to the Lighting amd Sound Demo project! This Unity project serves as a d
 
 ## Project Details
 
-- **Unity Version:** 2022.3.10f1
+- **Unity Version:** 2022.3.48f1
 - **Project Type:** Unity 3D
 - **Target Audience:** Students and educators learning about lighting in Unity
 
