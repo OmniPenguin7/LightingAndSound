@@ -2,26 +2,40 @@
 
 Welcome to the Lighting amd Sound Demo project! This Unity project serves as a demonstration of various lighting techniques, designed specifically for educational purposes. It's intended to help students understand different lighting scenarios and effects within the Unity game engine.
 
-## Project Details
-
-- **Unity Version:** 2022.3.48f1
-- **Project Type:** Unity 3D
-- **Target Audience:** Students and educators learning about lighting in Unity
-
 <table align="center">
     <tr>
-        <td style="padding: 10px;">
+        <td style="padding: 10px; text-align: center;">
+            <img src="https://github.com/Swansea-University-MSc-VR/LightingAndSound/blob/master/Assets/PointLightExample.png" alt="Point Light example" width="400" style="margin: 20px;" />
+            <br />
+            Point Light Example
+        </td>
+        <td style="padding: 10px; text-align: center;">
+            <img src="https://github.com/Swansea-University-MSc-VR/LightingAndSound/blob/master/Assets/AreaLightExample.png" alt="Area Light Example" width="400" style="margin: 20px;" />
+            <br />
+            Area Light Example
+        </td>
+    </tr>
+    <tr>
+        <td style="padding: 10px; text-align: center;">
             <img src="https://github.com/Swansea-University-MSc-VR/LightingAndSound/blob/master/Assets/SceneNoLighting.png" alt="Cabin scene - no lighting" width="400" style="margin: 20px;" />
             <br />
             Cabin Scene - no lighting
         </td>
-        <td style="padding: 10px;">
+        <td style="padding: 10px; text-align: center;">
             <img src="https://github.com/Swansea-University-MSc-VR/LightingAndSound/blob/master/Assets/SceneWithLighting.png" alt="Cabin scene - with lighting" width="400" style="margin: 20px;" />
             <br />
             Cabin Scene - with lighting
         </td>
     </tr>
 </table>
+
+## Project Details
+
+- **Unity Version:** 2022.3.48f1
+- **Project Type:** Unity 3D
+- **Target Audience:** Students and educators learning about lighting in Unity
+
+
 
 ## Getting Started
 
