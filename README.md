@@ -8,11 +8,20 @@ Welcome to the Lighting amd Sound Demo project! This Unity project serves as a d
 - **Project Type:** Unity 3D
 - **Target Audience:** Students and educators learning about lighting in Unity
 
+<div align="center">
+    <div style="display: inline-block; margin: 20px;">
+        <img src="https://github.com/Swansea-University-MSc-VR/LightingAndSound/blob/master/Assets/SceneNoLighting.png" alt="Cabin scene - no lighting" width="400" />
+    </div>
+    <div style="display: inline-block; margin: 20px;">
+        <img src="https://github.com/Swansea-University-MSc-VR/LightingAndSound/blob/master/Assets/SceneWithLighting.png" alt="Cabin scene - with lighting" width="400" />
+    </div>
+</div>
+
 ## Getting Started
 
 ### Prerequisites
 
-- [Unity 2022.3.10f1](https://unity.com/)
+- [Unity 2022.3.48f1](https://unity.com/)
 
 ### Installation
 
